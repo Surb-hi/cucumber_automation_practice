@@ -1,0 +1,371 @@
+2022-05-15 18:05:02 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 18:05:536 INFO  HomePage :49 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (bb5bb02259f0926f58a0ba47c85e2a82)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-15 18:05:640 INFO  HomePage :43 - Enter emailpapapig@gmail.com to  field [[ChromeDriver: chrome on WINDOWS (bb5bb02259f0926f58a0ba47c85e2a82)] -> xpath: //input[@id='email_create']]<br>
+2022-05-15 18:05:727 INFO  HomePage :68 - Clicking on accountbuttonField[[ChromeDriver: chrome on WINDOWS (bb5bb02259f0926f58a0ba47c85e2a82)] -> xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/form[1]/div[1]/div[3]/button[1]/span[1]]<br>
+2022-05-15 18:05:59 INFO  HomePage :79 - Clicking on Title[[ChromeDriver: chrome on WINDOWS (bb5bb02259f0926f58a0ba47c85e2a82)] -> xpath: //input[@id='id_gender2']]<br>
+2022-05-15 18:05:179 INFO  HomePage :84 - Enter firstnamepapapig to firstname field [[ChromeDriver: chrome on WINDOWS (bb5bb02259f0926f58a0ba47c85e2a82)] -> xpath: //input[@id='customer_firstname']]<br>
+2022-05-15 18:05:324 INFO  HomePage :89 - Enter lastname mummuypig to lastname  field [[ChromeDriver: chrome on WINDOWS (bb5bb02259f0926f58a0ba47c85e2a82)] -> xpath: //input[@id='customer_lastname']]<br>
+2022-05-15 18:05:450 INFO  HomePage :99 - Enter passwordfieldpapa_pig to  field [[ChromeDriver: chrome on WINDOWS (bb5bb02259f0926f58a0ba47c85e2a82)] -> xpath: //input[@id='passwd']]<br>
+2022-05-15 18:05:642 INFO  HomePage :104 - Selecting birthDate 1 from dropdown [[ChromeDriver: chrome on WINDOWS (bb5bb02259f0926f58a0ba47c85e2a82)] -> xpath: //select[@id='days']]<br>
+2022-05-15 18:05:762 INFO  HomePage :109 - Selecting birthMonth9 from dropdown [[ChromeDriver: chrome on WINDOWS (bb5bb02259f0926f58a0ba47c85e2a82)] -> xpath: //select[@id='months']]<br>
+2022-05-15 18:05:880 INFO  HomePage :114 - Selecting birthYear1997 from dropdown [[ChromeDriver: chrome on WINDOWS (bb5bb02259f0926f58a0ba47c85e2a82)] -> xpath: //select[@id='years']]<br>
+2022-05-15 18:05:956 INFO  HomePage :120 - Clicking on newsletterBox[[ChromeDriver: chrome on WINDOWS (bb5bb02259f0926f58a0ba47c85e2a82)] -> xpath: //input[@id='newsletter']]<br>
+2022-05-15 18:05:29 INFO  HomePage :126 - Clicking on specialOffersBox[[ChromeDriver: chrome on WINDOWS (bb5bb02259f0926f58a0ba47c85e2a82)] -> xpath: //input[@id='optin']]<br>
+2022-05-15 18:05:127 INFO  HomePage :131 - Enter addressfirstnamepapapig to  field [[ChromeDriver: chrome on WINDOWS (bb5bb02259f0926f58a0ba47c85e2a82)] -> xpath: //input[@id='firstname']]<br>
+2022-05-15 18:05:218 INFO  HomePage :136 - Enter addresslastname mummypig to  field [[ChromeDriver: chrome on WINDOWS (bb5bb02259f0926f58a0ba47c85e2a82)] -> xpath: //input[@id='lastname']]<br>
+2022-05-15 18:05:318 INFO  HomePage :141 - Enter address334 portland road to  field [[ChromeDriver: chrome on WINDOWS (bb5bb02259f0926f58a0ba47c85e2a82)] -> xpath: //input[@id='address1']]<br>
+2022-05-15 18:05:404 INFO  HomePage :146 - Enter Citypune to  field [[ChromeDriver: chrome on WINDOWS (bb5bb02259f0926f58a0ba47c85e2a82)] -> xpath: //input[@id='city']]<br>
+2022-05-15 18:05:485 INFO  HomePage :151 - Enter state eastmiddland to  field [[ChromeDriver: chrome on WINDOWS (bb5bb02259f0926f58a0ba47c85e2a82)] -> xpath: //select[@id='id_state']]<br>
+2022-05-15 18:05:577 INFO  HomePage :156 - Enter zipPostalCode38000 to  field [[ChromeDriver: chrome on WINDOWS (bb5bb02259f0926f58a0ba47c85e2a82)] -> xpath: //input[@id='postcode']]<br>
+2022-05-15 18:05:659 INFO  HomePage :161 - Selecting countryUnited States from dropdown [[ChromeDriver: chrome on WINDOWS (bb5bb02259f0926f58a0ba47c85e2a82)] -> xpath: //select[@id='id_country']]<br>
+2022-05-15 18:05:755 INFO  HomePage :166 - Enter mobilePhone 9898989890 to  field [[ChromeDriver: chrome on WINDOWS (bb5bb02259f0926f58a0ba47c85e2a82)] -> xpath: //input[@id='phone_mobile']]<br>
+2022-05-15 18:05:842 INFO  HomePage :171 - Enter referenceAddress334 portland LONDON to  field [[ChromeDriver: chrome on WINDOWS (bb5bb02259f0926f58a0ba47c85e2a82)] -> xpath: //input[@id='alias']]<br>
+2022-05-15 18:05:793 INFO  HomePage :176 - Clicking on registerbutton [[ChromeDriver: chrome on WINDOWS (bb5bb02259f0926f58a0ba47c85e2a82)] -> xpath: //button[@id='submitAccount']]<br>
+2022-05-15 18:05:837 INFO  HomePage :40 - getting  text from myaccountText Proxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'My account')]'<br>
+2022-05-15 20:05:366 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 20:05:859 INFO  HomePage :49 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (1abb18671d44439f914d4c8a904162db)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-15 20:05:951 INFO  HomePage :43 - Enter emailpapapig@gmail.com to  field [[ChromeDriver: chrome on WINDOWS (1abb18671d44439f914d4c8a904162db)] -> xpath: //input[@id='email_create']]<br>
+2022-05-15 20:05:26 INFO  HomePage :68 - Clicking on accountbuttonField[[ChromeDriver: chrome on WINDOWS (1abb18671d44439f914d4c8a904162db)] -> xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/form[1]/div[1]/div[3]/button[1]/span[1]]<br>
+2022-05-15 20:05:227 INFO  HomePage :79 - Clicking on Title[[ChromeDriver: chrome on WINDOWS (1abb18671d44439f914d4c8a904162db)] -> xpath: //input[@id='id_gender2']]<br>
+2022-05-15 20:05:326 INFO  HomePage :84 - Enter firstnamepapapig to firstname field [[ChromeDriver: chrome on WINDOWS (1abb18671d44439f914d4c8a904162db)] -> xpath: //input[@id='customer_firstname']]<br>
+2022-05-15 20:05:416 INFO  HomePage :89 - Enter lastname mummuypig to lastname  field [[ChromeDriver: chrome on WINDOWS (1abb18671d44439f914d4c8a904162db)] -> xpath: //input[@id='customer_lastname']]<br>
+2022-05-15 20:05:494 INFO  HomePage :99 - Enter passwordfieldpapa_pig to  field [[ChromeDriver: chrome on WINDOWS (1abb18671d44439f914d4c8a904162db)] -> xpath: //input[@id='passwd']]<br>
+2022-05-15 20:05:623 INFO  HomePage :104 - Selecting birthDate 1 from dropdown [[ChromeDriver: chrome on WINDOWS (1abb18671d44439f914d4c8a904162db)] -> xpath: //select[@id='days']]<br>
+2022-05-15 20:05:727 INFO  HomePage :109 - Selecting birthMonth9 from dropdown [[ChromeDriver: chrome on WINDOWS (1abb18671d44439f914d4c8a904162db)] -> xpath: //select[@id='months']]<br>
+2022-05-15 20:05:861 INFO  HomePage :114 - Selecting birthYear1997 from dropdown [[ChromeDriver: chrome on WINDOWS (1abb18671d44439f914d4c8a904162db)] -> xpath: //select[@id='years']]<br>
+2022-05-15 20:05:929 INFO  HomePage :120 - Clicking on newsletterBox[[ChromeDriver: chrome on WINDOWS (1abb18671d44439f914d4c8a904162db)] -> xpath: //input[@id='newsletter']]<br>
+2022-05-15 20:05:995 INFO  HomePage :126 - Clicking on specialOffersBox[[ChromeDriver: chrome on WINDOWS (1abb18671d44439f914d4c8a904162db)] -> xpath: //input[@id='optin']]<br>
+2022-05-15 20:05:75 INFO  HomePage :131 - Enter addressfirstnamepapapig to  field [[ChromeDriver: chrome on WINDOWS (1abb18671d44439f914d4c8a904162db)] -> xpath: //input[@id='firstname']]<br>
+2022-05-15 20:05:155 INFO  HomePage :136 - Enter addresslastname mummypig to  field [[ChromeDriver: chrome on WINDOWS (1abb18671d44439f914d4c8a904162db)] -> xpath: //input[@id='lastname']]<br>
+2022-05-15 20:05:241 INFO  HomePage :141 - Enter address334 portland road to  field [[ChromeDriver: chrome on WINDOWS (1abb18671d44439f914d4c8a904162db)] -> xpath: //input[@id='address1']]<br>
+2022-05-15 20:05:314 INFO  HomePage :146 - Enter Citypune to  field [[ChromeDriver: chrome on WINDOWS (1abb18671d44439f914d4c8a904162db)] -> xpath: //input[@id='city']]<br>
+2022-05-15 20:05:391 INFO  HomePage :151 - Enter state eastmiddland to  field [[ChromeDriver: chrome on WINDOWS (1abb18671d44439f914d4c8a904162db)] -> xpath: //select[@id='id_state']]<br>
+2022-05-15 20:05:471 INFO  HomePage :156 - Enter zipPostalCode38000 to  field [[ChromeDriver: chrome on WINDOWS (1abb18671d44439f914d4c8a904162db)] -> xpath: //input[@id='postcode']]<br>
+2022-05-15 20:05:540 INFO  HomePage :161 - Selecting countryUnited States from dropdown [[ChromeDriver: chrome on WINDOWS (1abb18671d44439f914d4c8a904162db)] -> xpath: //select[@id='id_country']]<br>
+2022-05-15 20:05:624 INFO  HomePage :166 - Enter mobilePhone 9898989890 to  field [[ChromeDriver: chrome on WINDOWS (1abb18671d44439f914d4c8a904162db)] -> xpath: //input[@id='phone_mobile']]<br>
+2022-05-15 20:05:713 INFO  HomePage :171 - Enter referenceAddress334 portland LONDON to  field [[ChromeDriver: chrome on WINDOWS (1abb18671d44439f914d4c8a904162db)] -> xpath: //input[@id='alias']]<br>
+2022-05-15 20:05:901 INFO  HomePage :176 - Clicking on registerbutton [[ChromeDriver: chrome on WINDOWS (1abb18671d44439f914d4c8a904162db)] -> xpath: //button[@id='submitAccount']]<br>
+2022-05-15 20:05:942 INFO  HomePage :40 - getting  text from myaccountText Proxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'My account')]'<br>
+2022-05-15 20:05:136 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 20:05:842 INFO  HomePage :49 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (49f3fad23610f995a00ee8c222bccc24)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-15 20:05:935 INFO  HomePage :43 - Enter emailpapapig@gmail.com to  field [[ChromeDriver: chrome on WINDOWS (49f3fad23610f995a00ee8c222bccc24)] -> xpath: //input[@id='email_create']]<br>
+2022-05-15 20:05:04 INFO  HomePage :68 - Clicking on accountbuttonField[[ChromeDriver: chrome on WINDOWS (49f3fad23610f995a00ee8c222bccc24)] -> xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/form[1]/div[1]/div[3]/button[1]/span[1]]<br>
+2022-05-15 20:05:457 INFO  HomePage :79 - Clicking on Title[[ChromeDriver: chrome on WINDOWS (49f3fad23610f995a00ee8c222bccc24)] -> xpath: //input[@id='id_gender2']]<br>
+2022-05-15 20:05:573 INFO  HomePage :84 - Enter firstnamepapapig to firstname field [[ChromeDriver: chrome on WINDOWS (49f3fad23610f995a00ee8c222bccc24)] -> xpath: //input[@id='customer_firstname']]<br>
+2022-05-15 20:05:683 INFO  HomePage :89 - Enter lastname mummuypig to lastname  field [[ChromeDriver: chrome on WINDOWS (49f3fad23610f995a00ee8c222bccc24)] -> xpath: //input[@id='customer_lastname']]<br>
+2022-05-15 20:05:762 INFO  HomePage :99 - Enter passwordfieldpapa_pig to  field [[ChromeDriver: chrome on WINDOWS (49f3fad23610f995a00ee8c222bccc24)] -> xpath: //input[@id='passwd']]<br>
+2022-05-15 20:05:871 INFO  HomePage :104 - Selecting birthDate 1 from dropdown [[ChromeDriver: chrome on WINDOWS (49f3fad23610f995a00ee8c222bccc24)] -> xpath: //select[@id='days']]<br>
+2022-05-15 20:05:05 INFO  HomePage :109 - Selecting birthMonth9 from dropdown [[ChromeDriver: chrome on WINDOWS (49f3fad23610f995a00ee8c222bccc24)] -> xpath: //select[@id='months']]<br>
+2022-05-15 20:05:98 INFO  HomePage :114 - Selecting birthYear1997 from dropdown [[ChromeDriver: chrome on WINDOWS (49f3fad23610f995a00ee8c222bccc24)] -> xpath: //select[@id='years']]<br>
+2022-05-15 20:05:162 INFO  HomePage :120 - Clicking on newsletterBox[[ChromeDriver: chrome on WINDOWS (49f3fad23610f995a00ee8c222bccc24)] -> xpath: //input[@id='newsletter']]<br>
+2022-05-15 20:05:228 INFO  HomePage :126 - Clicking on specialOffersBox[[ChromeDriver: chrome on WINDOWS (49f3fad23610f995a00ee8c222bccc24)] -> xpath: //input[@id='optin']]<br>
+2022-05-15 20:05:310 INFO  HomePage :131 - Enter addressfirstnamepapapig to  field [[ChromeDriver: chrome on WINDOWS (49f3fad23610f995a00ee8c222bccc24)] -> xpath: //input[@id='firstname']]<br>
+2022-05-15 20:05:405 INFO  HomePage :136 - Enter addresslastname mummypig to  field [[ChromeDriver: chrome on WINDOWS (49f3fad23610f995a00ee8c222bccc24)] -> xpath: //input[@id='lastname']]<br>
+2022-05-15 20:05:513 INFO  HomePage :141 - Enter address334 portland road to  field [[ChromeDriver: chrome on WINDOWS (49f3fad23610f995a00ee8c222bccc24)] -> xpath: //input[@id='address1']]<br>
+2022-05-15 20:05:583 INFO  HomePage :146 - Enter Citypune to  field [[ChromeDriver: chrome on WINDOWS (49f3fad23610f995a00ee8c222bccc24)] -> xpath: //input[@id='city']]<br>
+2022-05-15 20:05:654 INFO  HomePage :151 - Enter state Alabama to  field [[ChromeDriver: chrome on WINDOWS (49f3fad23610f995a00ee8c222bccc24)] -> xpath: //select[@id='id_state']]<br>
+2022-05-15 20:05:737 INFO  HomePage :156 - Enter zipPostalCode38000 to  field [[ChromeDriver: chrome on WINDOWS (49f3fad23610f995a00ee8c222bccc24)] -> xpath: //input[@id='postcode']]<br>
+2022-05-15 20:05:804 INFO  HomePage :161 - Selecting countryUnited States from dropdown [[ChromeDriver: chrome on WINDOWS (49f3fad23610f995a00ee8c222bccc24)] -> xpath: //select[@id='id_country']]<br>
+2022-05-15 20:05:884 INFO  HomePage :166 - Enter mobilePhone 9898989890 to  field [[ChromeDriver: chrome on WINDOWS (49f3fad23610f995a00ee8c222bccc24)] -> xpath: //input[@id='phone_mobile']]<br>
+2022-05-15 20:05:969 INFO  HomePage :171 - Enter referenceAddress334 portland LONDON to  field [[ChromeDriver: chrome on WINDOWS (49f3fad23610f995a00ee8c222bccc24)] -> xpath: //input[@id='alias']]<br>
+2022-05-15 20:05:935 INFO  HomePage :176 - Clicking on registerbutton Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='submitAccount']'<br>
+2022-05-15 20:05:958 INFO  HomePage :40 - getting  text from myaccountText [[ChromeDriver: chrome on WINDOWS (49f3fad23610f995a00ee8c222bccc24)] -> xpath: //h1[contains(text(),'My account')]]<br>
+2022-05-15 20:05:780 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 20:05:904 INFO  HomePage :49 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (41774952817d8a90a1668ba30514e0c3)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-15 20:05:926 INFO  HomePage :72 - getting  text from authenticationText[[ChromeDriver: chrome on WINDOWS (41774952817d8a90a1668ba30514e0c3)] -> xpath: //h1[contains(text(),'Authentication')]]<br>
+2022-05-15 20:05:180 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 20:05:585 INFO  HomePage :49 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (5fcb9b71d127ddbabcf1637b6edb63b3)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-15 20:05:658 INFO  HomePage :48 - Enter email to  field [[ChromeDriver: chrome on WINDOWS (5fcb9b71d127ddbabcf1637b6edb63b3)] -> xpath: //input[@id='email']]<br>
+2022-05-15 20:05:740 INFO  HomePage :53 - Enter passwordfield123456 to  field [[ChromeDriver: chrome on WINDOWS (5fcb9b71d127ddbabcf1637b6edb63b3)] -> xpath: //input[@id='passwd']]<br>
+2022-05-15 20:05:636 INFO  HomePage :58 - Clicking on signInButtonFieldProxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/form[1]/div[1]/p[2]/button[1]/span[1]'<br>
+2022-05-15 20:05:654 INFO  HomePage :88 - getting  text from errorMsg[[ChromeDriver: chrome on WINDOWS (5fcb9b71d127ddbabcf1637b6edb63b3)] -> xpath: //div[@class='alert alert-danger']//li]<br>
+2022-05-15 20:05:412 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 20:05:758 INFO  HomePage :49 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (0cd316dd283b47b773731acd96799a19)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-15 20:05:853 INFO  HomePage :48 - Enter emailabcd@gmail.com to  field [[ChromeDriver: chrome on WINDOWS (0cd316dd283b47b773731acd96799a19)] -> xpath: //input[@id='email']]<br>
+2022-05-15 20:05:921 INFO  HomePage :53 - Enter passwordfield to  field [[ChromeDriver: chrome on WINDOWS (0cd316dd283b47b773731acd96799a19)] -> xpath: //input[@id='passwd']]<br>
+2022-05-15 20:05:838 INFO  HomePage :58 - Clicking on signInButtonFieldProxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/form[1]/div[1]/p[2]/button[1]/span[1]'<br>
+2022-05-15 20:05:855 INFO  HomePage :88 - getting  text from errorMsg[[ChromeDriver: chrome on WINDOWS (0cd316dd283b47b773731acd96799a19)] -> xpath: //div[@class='alert alert-danger']//li]<br>
+2022-05-15 20:05:609 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 20:05:137 INFO  HomePage :49 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (970b3e96a5ad77b6508d98e2c3ad5706)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-15 20:05:213 INFO  HomePage :48 - Enter emailadfdfgfg to  field [[ChromeDriver: chrome on WINDOWS (970b3e96a5ad77b6508d98e2c3ad5706)] -> xpath: //input[@id='email']]<br>
+2022-05-15 20:05:293 INFO  HomePage :53 - Enter passwordfield123456 to  field [[ChromeDriver: chrome on WINDOWS (970b3e96a5ad77b6508d98e2c3ad5706)] -> xpath: //input[@id='passwd']]<br>
+2022-05-15 20:05:248 INFO  HomePage :58 - Clicking on signInButtonFieldProxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/form[1]/div[1]/p[2]/button[1]/span[1]'<br>
+2022-05-15 20:05:268 INFO  HomePage :88 - getting  text from errorMsg[[ChromeDriver: chrome on WINDOWS (970b3e96a5ad77b6508d98e2c3ad5706)] -> xpath: //div[@class='alert alert-danger']//li]<br>
+2022-05-15 20:05:20 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 20:05:30 INFO  HomePage :49 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (67d3c225b9ca55e08e4ac17235d43684)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-15 20:05:110 INFO  HomePage :48 - Enter emailabcd@gmail.com to  field [[ChromeDriver: chrome on WINDOWS (67d3c225b9ca55e08e4ac17235d43684)] -> xpath: //input[@id='email']]<br>
+2022-05-15 20:05:189 INFO  HomePage :53 - Enter passwordfield123456 to  field [[ChromeDriver: chrome on WINDOWS (67d3c225b9ca55e08e4ac17235d43684)] -> xpath: //input[@id='passwd']]<br>
+2022-05-15 21:05:819 INFO  HomePage :58 - Clicking on signInButtonFieldProxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/form[1]/div[1]/p[2]/button[1]/span[1]'<br>
+2022-05-15 21:05:835 INFO  HomePage :88 - getting  text from errorMsg[[ChromeDriver: chrome on WINDOWS (67d3c225b9ca55e08e4ac17235d43684)] -> xpath: //div[@class='alert alert-danger']//li]<br>
+2022-05-15 21:05:640 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 21:05:344 INFO  HomePage :49 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (4a70ebdb12e2cb153eeb5e34a6930f1b)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-15 21:05:427 INFO  HomePage :48 - Enter emailusername to  field [[ChromeDriver: chrome on WINDOWS (4a70ebdb12e2cb153eeb5e34a6930f1b)] -> xpath: //input[@id='email']]<br>
+2022-05-15 21:05:513 INFO  HomePage :53 - Enter passwordfieldpassword to  field [[ChromeDriver: chrome on WINDOWS (4a70ebdb12e2cb153eeb5e34a6930f1b)] -> xpath: //input[@id='passwd']]<br>
+2022-05-15 21:05:328 INFO  HomePage :58 - Clicking on signInButtonFieldProxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/form[1]/div[1]/p[2]/button[1]/span[1]'<br>
+2022-05-15 21:05:342 INFO  HomePage :28 - getting  text from sinout[[ChromeDriver: chrome on WINDOWS (4a70ebdb12e2cb153eeb5e34a6930f1b)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]<br>
+2022-05-15 21:05:670 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 21:05:976 INFO  HomePage :49 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (19d92dcba0fcfe944209ee0e113a958e)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-15 21:05:48 INFO  HomePage :48 - Enter emailpapapig@gmail.com to  field [[ChromeDriver: chrome on WINDOWS (19d92dcba0fcfe944209ee0e113a958e)] -> xpath: //input[@id='email']]<br>
+2022-05-15 21:05:118 INFO  HomePage :53 - Enter passwordfieldpapa_pig to  field [[ChromeDriver: chrome on WINDOWS (19d92dcba0fcfe944209ee0e113a958e)] -> xpath: //input[@id='passwd']]<br>
+2022-05-15 21:05:952 INFO  HomePage :58 - Clicking on signInButtonFieldProxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/form[1]/div[1]/p[2]/button[1]/span[1]'<br>
+2022-05-15 21:05:965 INFO  HomePage :28 - getting  text from sinout[[ChromeDriver: chrome on WINDOWS (19d92dcba0fcfe944209ee0e113a958e)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]<br>
+2022-05-15 21:05:533 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 21:05:57 INFO  HomePage :49 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (8e526cb1168cbea3ba80db1f3a7b84c9)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-15 21:05:124 INFO  HomePage :48 - Enter emailpapapig@gmail.com to  field [[ChromeDriver: chrome on WINDOWS (8e526cb1168cbea3ba80db1f3a7b84c9)] -> xpath: //input[@id='email']]<br>
+2022-05-15 21:05:192 INFO  HomePage :53 - Enter passwordfieldpapa_pig to  field [[ChromeDriver: chrome on WINDOWS (8e526cb1168cbea3ba80db1f3a7b84c9)] -> xpath: //input[@id='passwd']]<br>
+2022-05-15 21:05:890 INFO  HomePage :58 - Clicking on signInButtonFieldProxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/form[1]/div[1]/p[2]/button[1]/span[1]'<br>
+2022-05-15 21:05:792 INFO  HomePage :35 - Clicking on sinout[[ChromeDriver: chrome on WINDOWS (8e526cb1168cbea3ba80db1f3a7b84c9)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]<br>
+2022-05-15 21:05:802 INFO  HomePage :62 - getting  text from signInButtonField[[ChromeDriver: chrome on WINDOWS (8e526cb1168cbea3ba80db1f3a7b84c9)] -> xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/form[1]/div[1]/p[2]/button[1]/span[1]]<br>
+2022-05-15 21:05:45 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 21:05:901 INFO  HomePage :49 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (7f207a244a4d0ddf56ae2e5827ef492d)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-15 21:05:01 INFO  HomePage :48 - Enter emailpapapig@gmail.com to  field [[ChromeDriver: chrome on WINDOWS (7f207a244a4d0ddf56ae2e5827ef492d)] -> xpath: //input[@id='email']]<br>
+2022-05-15 21:05:88 INFO  HomePage :53 - Enter passwordfieldpapa_pig to  field [[ChromeDriver: chrome on WINDOWS (7f207a244a4d0ddf56ae2e5827ef492d)] -> xpath: //input[@id='passwd']]<br>
+2022-05-15 21:05:977 INFO  HomePage :58 - Clicking on signInButtonFieldProxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/form[1]/div[1]/p[2]/button[1]/span[1]'<br>
+2022-05-15 21:05:144 INFO  HomePage :35 - Clicking on sinout[[ChromeDriver: chrome on WINDOWS (7f207a244a4d0ddf56ae2e5827ef492d)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]<br>
+2022-05-15 21:05:158 INFO  HomePage :62 - getting  text from signInButtonField[[ChromeDriver: chrome on WINDOWS (7f207a244a4d0ddf56ae2e5827ef492d)] -> xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/form[1]/div[1]/p[2]/button[1]/span[1]]<br>
+2022-05-15 21:05:561 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 21:05:853 INFO  HomePage :48 - Clicking on Women[[ChromeDriver: chrome on WINDOWS (4ba8ccc85792e5da9bec55b5898d5c3d)] -> xpath: //header/div[3]/div[1]/div[1]/div[6]/ul[1]/li[1]/a[1]]<br>
+2022-05-15 21:05:959 INFO  HomePage :53 - getting  text from womenText [[ChromeDriver: chrome on WINDOWS (4ba8ccc85792e5da9bec55b5898d5c3d)] -> xpath: //h2[contains(text(),'Women')]]<br>
+2022-05-15 21:05:716 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 21:05:597 INFO  HomePage :48 - Clicking on Women[[ChromeDriver: chrome on WINDOWS (ff380fb91e4db7156965c396300e7cf8)] -> xpath: //header/div[3]/div[1]/div[1]/div[6]/ul[1]/li[1]/a[1]]<br>
+2022-05-15 21:05:276 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 21:05:973 INFO  HomePage :48 - Clicking on Women[[ChromeDriver: chrome on WINDOWS (2e065778a7361d1947bded8761b2afd4)] -> xpath: //header/div[3]/div[1]/div[1]/div[6]/ul[1]/li[1]/a[1]]<br>
+2022-05-15 21:05:405 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 21:05:116 INFO  HomePage :48 - Clicking on Women[[ChromeDriver: chrome on WINDOWS (0d1d230bc68e06516c92caab7face696)] -> xpath: //header/div[3]/div[1]/div[1]/div[6]/ul[1]/li[1]/a[1]]<br>
+2022-05-15 21:05:141 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 21:05:917 INFO  HomePage :48 - Clicking on Women[[ChromeDriver: chrome on WINDOWS (a13a803eb070b8370c6108c0ff9ef990)] -> xpath: //header/div[3]/div[1]/div[1]/div[6]/ul[1]/li[1]/a[1]]<br>
+2022-05-15 21:05:125 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 21:05:983 INFO  HomePage :48 - Clicking on Women[[ChromeDriver: chrome on WINDOWS (f1c266e8223c655bd7245ee1a6dfbab3)] -> xpath: //header/div[3]/div[1]/div[1]/div[6]/ul[1]/li[1]/a[1]]<br>
+2022-05-15 21:05:358 INFO  HomePage :53 - getting  text from womenText [[ChromeDriver: chrome on WINDOWS (f1c266e8223c655bd7245ee1a6dfbab3)] -> xpath: //h2[contains(text(),'Women')]]<br>
+2022-05-15 21:05:120 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 21:05:36 INFO  HomePage :48 - Clicking on Women[[ChromeDriver: chrome on WINDOWS (953434fbf9e4574b22ef6f2cd3d76cbd)] -> xpath: //header/div[3]/div[1]/div[1]/div[6]/ul[1]/li[1]/a[1]]<br>
+2022-05-15 21:05:925 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 21:05:806 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 21:05:931 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 21:05:855 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 21:05:957 INFO  HomePage :48 - Clicking on Women[[ChromeDriver: chrome on WINDOWS (d90592b6e07c867f0429ef8e2acc0fda)] -> xpath: //header/div[3]/div[1]/div[1]/div[6]/ul[1]/li[1]/a[1]]<br>
+2022-05-15 21:05:256 INFO  HomePage :53 - getting  text from womenText [[ChromeDriver: chrome on WINDOWS (d90592b6e07c867f0429ef8e2acc0fda)] -> xpath: //h2[contains(text(),'Women')]]<br>
+2022-05-15 21:05:14 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 21:05:646 INFO  HomePage :48 - Clicking on Women[[ChromeDriver: chrome on WINDOWS (6a9915eb5edef796c576aedfb23346d0)] -> xpath: //header/div[3]/div[1]/div[1]/div[6]/ul[1]/li[1]/a[1]]<br>
+2022-05-15 21:05:341 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 21:05:237 INFO  HomePage :48 - Clicking on Women[[ChromeDriver: chrome on WINDOWS (58ac27af10b0bbd6aa7c9f434b29e2b8)] -> xpath: //header/div[3]/div[1]/div[1]/div[6]/ul[1]/li[1]/a[1]]<br>
+2022-05-15 21:05:47 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 21:05:737 INFO  HomePage :48 - Clicking on Women[[ChromeDriver: chrome on WINDOWS (218300dc88b95fad70df16dea597bfa7)] -> xpath: //header/div[3]/div[1]/div[1]/div[6]/ul[1]/li[1]/a[1]]<br>
+2022-05-15 21:05:627 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 21:05:530 INFO  HomePage :48 - Clicking on Women[[ChromeDriver: chrome on WINDOWS (43a25be6e9b5ed807047326b6c830ee7)] -> xpath: //header/div[3]/div[1]/div[1]/div[6]/ul[1]/li[1]/a[1]]<br>
+2022-05-15 21:05:999 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 21:05:458 INFO  HomePage :48 - Clicking on Women[[ChromeDriver: chrome on WINDOWS (a3c6cd4f65dcb3eb3502bc8a334db79c)] -> xpath: //header/div[3]/div[1]/div[1]/div[6]/ul[1]/li[1]/a[1]]<br>
+2022-05-15 21:05:908 INFO  HomePage :53 - getting  text from womenText [[ChromeDriver: chrome on WINDOWS (a3c6cd4f65dcb3eb3502bc8a334db79c)] -> xpath: //h2[contains(text(),'Women')]]<br>
+2022-05-15 21:05:666 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 21:05:321 INFO  HomePage :48 - Clicking on Women[[ChromeDriver: chrome on WINDOWS (b49168061e2d9952d7c86521e760a3ec)] -> xpath: //header/div[3]/div[1]/div[1]/div[6]/ul[1]/li[1]/a[1]]<br>
+2022-05-15 21:05:476 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 21:05:691 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 21:05:846 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 21:05:524 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 21:05:80 INFO  HomePage :48 - Clicking on Women[[ChromeDriver: chrome on WINDOWS (0f4715b361d2cbd91c1da5946b6e189e)] -> xpath: //header/div[3]/div[1]/div[1]/div[6]/ul[1]/li[1]/a[1]]<br>
+2022-05-15 21:05:450 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 21:05:121 INFO  HomePage :48 - Clicking on Women[[ChromeDriver: chrome on WINDOWS (d4180b50ee56757a5c957f7c48e9c69b)] -> xpath: //header/div[3]/div[1]/div[1]/div[6]/ul[1]/li[1]/a[1]]<br>
+2022-05-15 21:05:862 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 21:05:305 INFO  HomePage :48 - Clicking on Women[[ChromeDriver: chrome on WINDOWS (4bc422e913b5485d4db2019609533eae)] -> xpath: //header/div[3]/div[1]/div[1]/div[6]/ul[1]/li[1]/a[1]]<br>
+2022-05-15 22:05:463 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 22:05:596 INFO  HomePage :48 - Clicking on Women[[ChromeDriver: chrome on WINDOWS (7e90cfac16b5d833030e4bac28d1824a)] -> xpath: //header/div[3]/div[1]/div[1]/div[6]/ul[1]/li[1]/a[1]]<br>
+2022-05-15 22:05:211 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 22:05:655 INFO  HomePage :50 - Clicking on Women[[ChromeDriver: chrome on WINDOWS (2d36d96734d900d94ab451f488adf77e)] -> xpath: //header/div[3]/div[1]/div[1]/div[6]/ul[1]/li[1]/a[1]]<br>
+2022-05-15 22:05:841 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 22:05:454 INFO  HomePage :50 - Clicking on Women[[ChromeDriver: chrome on WINDOWS (c022d9435ec50b30a7c93b6ac1f13123)] -> xpath: //header/div[3]/div[1]/div[1]/div[6]/ul[1]/li[1]/a[1]]<br>
+2022-05-15 22:05:698 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 22:05:280 INFO  HomePage :50 - Clicking on Women[[ChromeDriver: chrome on WINDOWS (9c781c27230daa6258bd4b6f2315bcb9)] -> xpath: //header/div[3]/div[1]/div[1]/div[6]/ul[1]/li[1]/a[1]]<br>
+2022-05-15 22:05:565 INFO  HomePage :87 - Clicking on Blouse [[ChromeDriver: chrome on WINDOWS (9c781c27230daa6258bd4b6f2315bcb9)] -> xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[2]/ul[1]/li[2]/div[1]/div[2]/h5[1]/a[1]]
+2022-05-15 22:05:620 INFO  HomePage :52 - Enter ProductQuantity[[ChromeDriver: chrome on WINDOWS (9c781c27230daa6258bd4b6f2315bcb9)] -> xpath: //input[@id='quantity_wanted']]<br>
+2022-05-15 22:05:672 INFO  HomePage :57 - Enter ProductQuantity 2 to firstname field [[ChromeDriver: chrome on WINDOWS (9c781c27230daa6258bd4b6f2315bcb9)] -> xpath: //input[@id='quantity_wanted']]<br>
+2022-05-15 22:05:786 INFO  HomePage :62 - Selecting birthDate M from dropdown [[ChromeDriver: chrome on WINDOWS (9c781c27230daa6258bd4b6f2315bcb9)] -> xpath: //select[@id='group_1']]<br>
+2022-05-15 22:05:853 INFO  HomePage :83 - Clicking on addToCardProduct[[ChromeDriver: chrome on WINDOWS (9c781c27230daa6258bd4b6f2315bcb9)] -> xpath: //span[contains(text(),'Add to cart')]]<br>
+2022-05-15 22:05:873 INFO  HomePage :87 - getting  text from productAdded[[ChromeDriver: chrome on WINDOWS (9c781c27230daa6258bd4b6f2315bcb9)] -> xpath: //body[1]/div[1]/div[1]/header[1]/div[3]/div[1]/div[1]/div[4]/div[1]/div[1]/h2[1]]<br>
+2022-05-15 22:05:308 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 22:05:152 INFO  HomePage :50 - Clicking on Women[[ChromeDriver: chrome on WINDOWS (555cdab26cdc362d5efa441aecf9bafb)] -> xpath: //header/div[3]/div[1]/div[1]/div[6]/ul[1]/li[1]/a[1]]<br>
+2022-05-15 22:05:628 INFO  HomePage :87 - Clicking on Blouse [[ChromeDriver: chrome on WINDOWS (555cdab26cdc362d5efa441aecf9bafb)] -> xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[2]/ul[1]/li[2]/div[1]/div[2]/h5[1]/a[1]]
+2022-05-15 22:05:683 INFO  HomePage :52 - Enter ProductQuantity[[ChromeDriver: chrome on WINDOWS (555cdab26cdc362d5efa441aecf9bafb)] -> xpath: //input[@id='quantity_wanted']]<br>
+2022-05-15 22:05:737 INFO  HomePage :57 - Enter ProductQuantity 2 to firstname field [[ChromeDriver: chrome on WINDOWS (555cdab26cdc362d5efa441aecf9bafb)] -> xpath: //input[@id='quantity_wanted']]<br>
+2022-05-15 22:05:840 INFO  HomePage :62 - Selecting birthDate M from dropdown [[ChromeDriver: chrome on WINDOWS (555cdab26cdc362d5efa441aecf9bafb)] -> xpath: //select[@id='group_1']]<br>
+2022-05-15 22:05:904 INFO  HomePage :83 - Clicking on addToCardProduct[[ChromeDriver: chrome on WINDOWS (555cdab26cdc362d5efa441aecf9bafb)] -> xpath: //span[contains(text(),'Add to cart')]]<br>
+2022-05-15 22:05:924 INFO  HomePage :87 - getting  text from productAdded[[ChromeDriver: chrome on WINDOWS (555cdab26cdc362d5efa441aecf9bafb)] -> xpath: //body[1]/div[1]/div[1]/header[1]/div[3]/div[1]/div[1]/div[4]/div[1]/div[1]/h2[1]]<br>
+2022-05-15 22:05:530 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 22:05:740 INFO  HomePage :50 - Clicking on Women[[ChromeDriver: chrome on WINDOWS (3a1df327ee165e3b4427d033f776b1a8)] -> xpath: //header/div[3]/div[1]/div[1]/div[6]/ul[1]/li[1]/a[1]]<br>
+2022-05-15 22:05:291 INFO  HomePage :87 - Clicking on Blouse [[ChromeDriver: chrome on WINDOWS (3a1df327ee165e3b4427d033f776b1a8)] -> xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[2]/ul[1]/li[2]/div[1]/div[2]/h5[1]/a[1]]
+2022-05-15 22:05:346 INFO  HomePage :52 - Enter ProductQuantity[[ChromeDriver: chrome on WINDOWS (3a1df327ee165e3b4427d033f776b1a8)] -> xpath: //input[@id='quantity_wanted']]<br>
+2022-05-15 22:05:400 INFO  HomePage :57 - Enter ProductQuantity 2 to firstname field [[ChromeDriver: chrome on WINDOWS (3a1df327ee165e3b4427d033f776b1a8)] -> xpath: //input[@id='quantity_wanted']]<br>
+2022-05-15 22:05:504 INFO  HomePage :62 - Selecting birthDate M from dropdown [[ChromeDriver: chrome on WINDOWS (3a1df327ee165e3b4427d033f776b1a8)] -> xpath: //select[@id='group_1']]<br>
+2022-05-15 22:05:570 INFO  HomePage :83 - Clicking on addToCardProduct[[ChromeDriver: chrome on WINDOWS (3a1df327ee165e3b4427d033f776b1a8)] -> xpath: //span[contains(text(),'Add to cart')]]<br>
+2022-05-15 22:05:611 INFO  HomePage :87 - getting  text from productAdded[[ChromeDriver: chrome on WINDOWS (3a1df327ee165e3b4427d033f776b1a8)] -> xpath: //body[1]/div[1]/div[1]/header[1]/div[3]/div[1]/div[1]/div[4]/div[1]/div[1]/h2[1]]<br>
+2022-05-15 22:05:690 INFO  HomePage :93 - Clicking on crossbutton[[ChromeDriver: chrome on WINDOWS (3a1df327ee165e3b4427d033f776b1a8)] -> xpath: //header/div[3]/div[1]/div[1]/div[4]/div[1]/div[1]/span[1]]<br>
+2022-05-15 22:05:439 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 22:05:414 INFO  HomePage :50 - Clicking on Women[[ChromeDriver: chrome on WINDOWS (f00d3c01782f96ce94222fd67c0fb789)] -> xpath: //header/div[3]/div[1]/div[1]/div[6]/ul[1]/li[1]/a[1]]<br>
+2022-05-15 22:05:214 INFO  HomePage :87 - Clicking on Blouse [[ChromeDriver: chrome on WINDOWS (f00d3c01782f96ce94222fd67c0fb789)] -> xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[2]/ul[1]/li[2]/div[1]/div[2]/h5[1]/a[1]]
+2022-05-15 22:05:276 INFO  HomePage :52 - Enter ProductQuantity[[ChromeDriver: chrome on WINDOWS (f00d3c01782f96ce94222fd67c0fb789)] -> xpath: //input[@id='quantity_wanted']]<br>
+2022-05-15 22:05:328 INFO  HomePage :57 - Enter ProductQuantity 2 to firstname field [[ChromeDriver: chrome on WINDOWS (f00d3c01782f96ce94222fd67c0fb789)] -> xpath: //input[@id='quantity_wanted']]<br>
+2022-05-15 22:05:436 INFO  HomePage :62 - Selecting birthDate M from dropdown [[ChromeDriver: chrome on WINDOWS (f00d3c01782f96ce94222fd67c0fb789)] -> xpath: //select[@id='group_1']]<br>
+2022-05-15 22:05:525 INFO  HomePage :83 - Clicking on addToCardProduct[[ChromeDriver: chrome on WINDOWS (f00d3c01782f96ce94222fd67c0fb789)] -> xpath: //span[contains(text(),'Add to cart')]]<br>
+2022-05-15 22:05:559 INFO  HomePage :87 - getting  text from productAdded[[ChromeDriver: chrome on WINDOWS (f00d3c01782f96ce94222fd67c0fb789)] -> xpath: //body[1]/div[1]/div[1]/header[1]/div[3]/div[1]/div[1]/div[4]/div[1]/div[1]/h2[1]]<br>
+2022-05-15 22:05:421 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 22:05:899 INFO  HomePage :50 - Clicking on Women[[ChromeDriver: chrome on WINDOWS (b4a3bbd172f213d5ef434c7ab49409aa)] -> xpath: //header/div[3]/div[1]/div[1]/div[6]/ul[1]/li[1]/a[1]]<br>
+2022-05-15 22:05:579 INFO  HomePage :92 - Clicking on Printed Dress [[ChromeDriver: chrome on WINDOWS (b4a3bbd172f213d5ef434c7ab49409aa)] -> xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[2]/ul[1]/li[3]/div[1]/div[2]/h5[1]/a[1]]
+2022-05-15 22:05:628 INFO  HomePage :52 - Enter ProductQuantity[[ChromeDriver: chrome on WINDOWS (b4a3bbd172f213d5ef434c7ab49409aa)] -> xpath: //input[@id='quantity_wanted']]<br>
+2022-05-15 22:05:677 INFO  HomePage :57 - Enter ProductQuantity 3 to firstname field [[ChromeDriver: chrome on WINDOWS (b4a3bbd172f213d5ef434c7ab49409aa)] -> xpath: //input[@id='quantity_wanted']]<br>
+2022-05-15 22:05:764 INFO  HomePage :62 - Selecting birthDate L from dropdown [[ChromeDriver: chrome on WINDOWS (b4a3bbd172f213d5ef434c7ab49409aa)] -> xpath: //select[@id='group_1']]<br>
+2022-05-15 22:05:824 INFO  HomePage :83 - Clicking on addToCardProduct[[ChromeDriver: chrome on WINDOWS (b4a3bbd172f213d5ef434c7ab49409aa)] -> xpath: //span[contains(text(),'Add to cart')]]<br>
+2022-05-15 22:05:851 INFO  HomePage :87 - getting  text from productAdded[[ChromeDriver: chrome on WINDOWS (b4a3bbd172f213d5ef434c7ab49409aa)] -> xpath: //body[1]/div[1]/div[1]/header[1]/div[3]/div[1]/div[1]/div[4]/div[1]/div[1]/h2[1]]<br>
+2022-05-15 22:05:914 INFO  HomePage :93 - Clicking on crossbutton[[ChromeDriver: chrome on WINDOWS (b4a3bbd172f213d5ef434c7ab49409aa)] -> xpath: //header/div[3]/div[1]/div[1]/div[4]/div[1]/div[1]/span[1]]<br>
+2022-05-15 22:05:69 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 22:05:224 INFO  HomePage :50 - Clicking on Women[[ChromeDriver: chrome on WINDOWS (885af1c346b97973714390bfcf0452a9)] -> xpath: //header/div[3]/div[1]/div[1]/div[6]/ul[1]/li[1]/a[1]]<br>
+2022-05-15 22:05:96 INFO  HomePage :96 - Clicking on Printed Chiffon Dress [[ChromeDriver: chrome on WINDOWS (885af1c346b97973714390bfcf0452a9)] -> xpath: //a[contains(text(),'Printed Chiffon Dress')]]
+2022-05-15 22:05:146 INFO  HomePage :52 - Enter ProductQuantity[[ChromeDriver: chrome on WINDOWS (885af1c346b97973714390bfcf0452a9)] -> xpath: //input[@id='quantity_wanted']]<br>
+2022-05-15 22:05:195 INFO  HomePage :57 - Enter ProductQuantity 4 to firstname field [[ChromeDriver: chrome on WINDOWS (885af1c346b97973714390bfcf0452a9)] -> xpath: //input[@id='quantity_wanted']]<br>
+2022-05-15 22:05:243 INFO  HomePage :62 - Selecting birthDate S from dropdown [[ChromeDriver: chrome on WINDOWS (885af1c346b97973714390bfcf0452a9)] -> xpath: //select[@id='group_1']]<br>
+2022-05-15 22:05:300 INFO  HomePage :83 - Clicking on addToCardProduct[[ChromeDriver: chrome on WINDOWS (885af1c346b97973714390bfcf0452a9)] -> xpath: //span[contains(text(),'Add to cart')]]<br>
+2022-05-15 22:05:327 INFO  HomePage :87 - getting  text from productAdded[[ChromeDriver: chrome on WINDOWS (885af1c346b97973714390bfcf0452a9)] -> xpath: //body[1]/div[1]/div[1]/header[1]/div[3]/div[1]/div[1]/div[4]/div[1]/div[1]/h2[1]]<br>
+2022-05-15 22:05:389 INFO  HomePage :93 - Clicking on crossbutton[[ChromeDriver: chrome on WINDOWS (885af1c346b97973714390bfcf0452a9)] -> xpath: //header/div[3]/div[1]/div[1]/div[4]/div[1]/div[1]/span[1]]<br>
+2022-05-15 22:05:571 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 22:05:759 INFO  HomePage :50 - Clicking on Women[[ChromeDriver: chrome on WINDOWS (8931472bb9b8afbe35da4edf6cf8cbba)] -> xpath: //header/div[3]/div[1]/div[1]/div[6]/ul[1]/li[1]/a[1]]<br>
+2022-05-15 22:05:913 INFO  HomePage :100 - Clicking on Printed Summer Dress with Price tag $28.98 [[ChromeDriver: chrome on WINDOWS (8931472bb9b8afbe35da4edf6cf8cbba)] -> xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[2]/ul[1]/li[5]/div[1]/div[2]/h5[1]/a[1]]
+2022-05-15 22:05:964 INFO  HomePage :52 - Enter ProductQuantity[[ChromeDriver: chrome on WINDOWS (8931472bb9b8afbe35da4edf6cf8cbba)] -> xpath: //input[@id='quantity_wanted']]<br>
+2022-05-15 22:05:17 INFO  HomePage :57 - Enter ProductQuantity 2 to firstname field [[ChromeDriver: chrome on WINDOWS (8931472bb9b8afbe35da4edf6cf8cbba)] -> xpath: //input[@id='quantity_wanted']]<br>
+2022-05-15 22:05:109 INFO  HomePage :62 - Selecting birthDate M from dropdown [[ChromeDriver: chrome on WINDOWS (8931472bb9b8afbe35da4edf6cf8cbba)] -> xpath: //select[@id='group_1']]<br>
+2022-05-15 22:05:167 INFO  HomePage :83 - Clicking on addToCardProduct[[ChromeDriver: chrome on WINDOWS (8931472bb9b8afbe35da4edf6cf8cbba)] -> xpath: //span[contains(text(),'Add to cart')]]<br>
+2022-05-15 22:05:184 INFO  HomePage :87 - getting  text from productAdded[[ChromeDriver: chrome on WINDOWS (8931472bb9b8afbe35da4edf6cf8cbba)] -> xpath: //body[1]/div[1]/div[1]/header[1]/div[3]/div[1]/div[1]/div[4]/div[1]/div[1]/h2[1]]<br>
+2022-05-15 22:05:245 INFO  HomePage :93 - Clicking on crossbutton[[ChromeDriver: chrome on WINDOWS (8931472bb9b8afbe35da4edf6cf8cbba)] -> xpath: //header/div[3]/div[1]/div[1]/div[4]/div[1]/div[1]/span[1]]<br>
+2022-05-15 22:05:780 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 22:05:198 INFO  HomePage :50 - Clicking on Women[[ChromeDriver: chrome on WINDOWS (e688d8f02b31d19f80ab0288ff18e7cb)] -> xpath: //header/div[3]/div[1]/div[1]/div[6]/ul[1]/li[1]/a[1]]<br>
+2022-05-15 22:05:01 INFO  HomePage :87 - Clicking on Blouse [[ChromeDriver: chrome on WINDOWS (e688d8f02b31d19f80ab0288ff18e7cb)] -> xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[2]/ul[1]/li[2]/div[1]/div[2]/h5[1]/a[1]]
+2022-05-15 22:05:58 INFO  HomePage :52 - Enter ProductQuantity[[ChromeDriver: chrome on WINDOWS (e688d8f02b31d19f80ab0288ff18e7cb)] -> xpath: //input[@id='quantity_wanted']]<br>
+2022-05-15 22:05:114 INFO  HomePage :57 - Enter ProductQuantity 2 to firstname field [[ChromeDriver: chrome on WINDOWS (e688d8f02b31d19f80ab0288ff18e7cb)] -> xpath: //input[@id='quantity_wanted']]<br>
+2022-05-15 22:05:223 INFO  HomePage :62 - Selecting birthDate M from dropdown [[ChromeDriver: chrome on WINDOWS (e688d8f02b31d19f80ab0288ff18e7cb)] -> xpath: //select[@id='group_1']]<br>
+2022-05-15 22:05:284 INFO  HomePage :83 - Clicking on addToCardProduct[[ChromeDriver: chrome on WINDOWS (e688d8f02b31d19f80ab0288ff18e7cb)] -> xpath: //span[contains(text(),'Add to cart')]]<br>
+2022-05-15 22:05:317 INFO  HomePage :87 - getting  text from productAdded[[ChromeDriver: chrome on WINDOWS (e688d8f02b31d19f80ab0288ff18e7cb)] -> xpath: //body[1]/div[1]/div[1]/header[1]/div[3]/div[1]/div[1]/div[4]/div[1]/div[1]/h2[1]]<br>
+2022-05-15 22:05:386 INFO  HomePage :93 - Clicking on crossbutton[[ChromeDriver: chrome on WINDOWS (e688d8f02b31d19f80ab0288ff18e7cb)] -> xpath: //header/div[3]/div[1]/div[1]/div[4]/div[1]/div[1]/span[1]]<br>
+2022-05-15 22:05:177 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 22:05:525 INFO  HomePage :50 - Clicking on Women[[ChromeDriver: chrome on WINDOWS (c68c5f54f8b257cbee5d0693ea092f59)] -> xpath: //header/div[3]/div[1]/div[1]/div[6]/ul[1]/li[1]/a[1]]<br>
+2022-05-15 22:05:443 INFO  HomePage :92 - Clicking on Printed Dress [[ChromeDriver: chrome on WINDOWS (c68c5f54f8b257cbee5d0693ea092f59)] -> xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[2]/ul[1]/li[3]/div[1]/div[2]/h5[1]/a[1]]
+2022-05-15 22:05:496 INFO  HomePage :52 - Enter ProductQuantity[[ChromeDriver: chrome on WINDOWS (c68c5f54f8b257cbee5d0693ea092f59)] -> xpath: //input[@id='quantity_wanted']]<br>
+2022-05-15 22:05:550 INFO  HomePage :57 - Enter ProductQuantity 3 to firstname field [[ChromeDriver: chrome on WINDOWS (c68c5f54f8b257cbee5d0693ea092f59)] -> xpath: //input[@id='quantity_wanted']]<br>
+2022-05-15 22:05:656 INFO  HomePage :62 - Selecting birthDate L from dropdown [[ChromeDriver: chrome on WINDOWS (c68c5f54f8b257cbee5d0693ea092f59)] -> xpath: //select[@id='group_1']]<br>
+2022-05-15 22:05:715 INFO  HomePage :83 - Clicking on addToCardProduct[[ChromeDriver: chrome on WINDOWS (c68c5f54f8b257cbee5d0693ea092f59)] -> xpath: //span[contains(text(),'Add to cart')]]<br>
+2022-05-15 22:05:740 INFO  HomePage :87 - getting  text from productAdded[[ChromeDriver: chrome on WINDOWS (c68c5f54f8b257cbee5d0693ea092f59)] -> xpath: //body[1]/div[1]/div[1]/header[1]/div[3]/div[1]/div[1]/div[4]/div[1]/div[1]/h2[1]]<br>
+2022-05-15 22:05:804 INFO  HomePage :93 - Clicking on crossbutton[[ChromeDriver: chrome on WINDOWS (c68c5f54f8b257cbee5d0693ea092f59)] -> xpath: //header/div[3]/div[1]/div[1]/div[4]/div[1]/div[1]/span[1]]<br>
+2022-05-15 22:05:558 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 22:05:992 INFO  HomePage :50 - Clicking on Women[[ChromeDriver: chrome on WINDOWS (fb11f1c5cab50ec992e4867e4a771222)] -> xpath: //header/div[3]/div[1]/div[1]/div[6]/ul[1]/li[1]/a[1]]<br>
+2022-05-15 22:05:711 INFO  HomePage :96 - Clicking on Printed Chiffon Dress [[ChromeDriver: chrome on WINDOWS (fb11f1c5cab50ec992e4867e4a771222)] -> xpath: //a[contains(text(),'Printed Chiffon Dress')]]
+2022-05-15 22:05:767 INFO  HomePage :52 - Enter ProductQuantity[[ChromeDriver: chrome on WINDOWS (fb11f1c5cab50ec992e4867e4a771222)] -> xpath: //input[@id='quantity_wanted']]<br>
+2022-05-15 22:05:819 INFO  HomePage :57 - Enter ProductQuantity 4 to firstname field [[ChromeDriver: chrome on WINDOWS (fb11f1c5cab50ec992e4867e4a771222)] -> xpath: //input[@id='quantity_wanted']]<br>
+2022-05-15 22:05:868 INFO  HomePage :62 - Selecting birthDate S from dropdown [[ChromeDriver: chrome on WINDOWS (fb11f1c5cab50ec992e4867e4a771222)] -> xpath: //select[@id='group_1']]<br>
+2022-05-15 22:05:930 INFO  HomePage :83 - Clicking on addToCardProduct[[ChromeDriver: chrome on WINDOWS (fb11f1c5cab50ec992e4867e4a771222)] -> xpath: //span[contains(text(),'Add to cart')]]<br>
+2022-05-15 22:05:946 INFO  HomePage :87 - getting  text from productAdded[[ChromeDriver: chrome on WINDOWS (fb11f1c5cab50ec992e4867e4a771222)] -> xpath: //body[1]/div[1]/div[1]/header[1]/div[3]/div[1]/div[1]/div[4]/div[1]/div[1]/h2[1]]<br>
+2022-05-15 22:05:09 INFO  HomePage :93 - Clicking on crossbutton[[ChromeDriver: chrome on WINDOWS (fb11f1c5cab50ec992e4867e4a771222)] -> xpath: //header/div[3]/div[1]/div[1]/div[4]/div[1]/div[1]/span[1]]<br>
+2022-05-15 22:05:775 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 22:05:418 INFO  HomePage :50 - Clicking on Women[[ChromeDriver: chrome on WINDOWS (a7d297a6935f6ab34a4e42a83b4ea9ae)] -> xpath: //header/div[3]/div[1]/div[1]/div[6]/ul[1]/li[1]/a[1]]<br>
+2022-05-15 22:05:648 INFO  HomePage :100 - Clicking on Printed Summer Dress with Price tag $28.98 [[ChromeDriver: chrome on WINDOWS (a7d297a6935f6ab34a4e42a83b4ea9ae)] -> xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[2]/ul[1]/li[5]/div[1]/div[2]/h5[1]/a[1]]
+2022-05-15 22:05:695 INFO  HomePage :52 - Enter ProductQuantity[[ChromeDriver: chrome on WINDOWS (a7d297a6935f6ab34a4e42a83b4ea9ae)] -> xpath: //input[@id='quantity_wanted']]<br>
+2022-05-15 22:05:739 INFO  HomePage :57 - Enter ProductQuantity 2 to firstname field [[ChromeDriver: chrome on WINDOWS (a7d297a6935f6ab34a4e42a83b4ea9ae)] -> xpath: //input[@id='quantity_wanted']]<br>
+2022-05-15 22:05:832 INFO  HomePage :62 - Selecting birthDate M from dropdown [[ChromeDriver: chrome on WINDOWS (a7d297a6935f6ab34a4e42a83b4ea9ae)] -> xpath: //select[@id='group_1']]<br>
+2022-05-15 22:05:890 INFO  HomePage :83 - Clicking on addToCardProduct[[ChromeDriver: chrome on WINDOWS (a7d297a6935f6ab34a4e42a83b4ea9ae)] -> xpath: //span[contains(text(),'Add to cart')]]<br>
+2022-05-15 22:05:959 INFO  HomePage :87 - getting  text from productAdded[[ChromeDriver: chrome on WINDOWS (a7d297a6935f6ab34a4e42a83b4ea9ae)] -> xpath: //body[1]/div[1]/div[1]/header[1]/div[3]/div[1]/div[1]/div[4]/div[1]/div[1]/h2[1]]<br>
+2022-05-15 22:05:16 INFO  HomePage :93 - Clicking on crossbutton[[ChromeDriver: chrome on WINDOWS (a7d297a6935f6ab34a4e42a83b4ea9ae)] -> xpath: //header/div[3]/div[1]/div[1]/div[4]/div[1]/div[1]/span[1]]<br>
+2022-05-15 22:05:861 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 22:05:839 INFO  HomePage :51 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (3f593696ccc2dd61344bc015fbf36a9a)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-15 22:05:929 INFO  HomePage :45 - Enter emailpapapig1@gmail.com to  field [[ChromeDriver: chrome on WINDOWS (3f593696ccc2dd61344bc015fbf36a9a)] -> xpath: //input[@id='email_create']]<br>
+2022-05-15 22:05:03 INFO  HomePage :70 - Clicking on accountbuttonField[[ChromeDriver: chrome on WINDOWS (3f593696ccc2dd61344bc015fbf36a9a)] -> xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/form[1]/div[1]/div[3]/button[1]/span[1]]<br>
+2022-05-15 22:05:927 INFO  HomePage :81 - Clicking on Title[[ChromeDriver: chrome on WINDOWS (3f593696ccc2dd61344bc015fbf36a9a)] -> xpath: //input[@id='id_gender2']]<br>
+2022-05-15 22:05:18 INFO  HomePage :86 - Enter firstnamepapapig to firstname field [[ChromeDriver: chrome on WINDOWS (3f593696ccc2dd61344bc015fbf36a9a)] -> xpath: //input[@id='customer_firstname']]<br>
+2022-05-15 22:05:95 INFO  HomePage :91 - Enter lastname mummuypig to lastname  field [[ChromeDriver: chrome on WINDOWS (3f593696ccc2dd61344bc015fbf36a9a)] -> xpath: //input[@id='customer_lastname']]<br>
+2022-05-15 22:05:168 INFO  HomePage :101 - Enter passwordfieldpapa_pig to  field [[ChromeDriver: chrome on WINDOWS (3f593696ccc2dd61344bc015fbf36a9a)] -> xpath: //input[@id='passwd']]<br>
+2022-05-15 22:05:256 INFO  HomePage :106 - Selecting birthDate 1 from dropdown [[ChromeDriver: chrome on WINDOWS (3f593696ccc2dd61344bc015fbf36a9a)] -> xpath: //select[@id='days']]<br>
+2022-05-15 22:05:337 INFO  HomePage :111 - Selecting birthMonth9 from dropdown [[ChromeDriver: chrome on WINDOWS (3f593696ccc2dd61344bc015fbf36a9a)] -> xpath: //select[@id='months']]<br>
+2022-05-15 22:05:420 INFO  HomePage :116 - Selecting birthYear1997 from dropdown [[ChromeDriver: chrome on WINDOWS (3f593696ccc2dd61344bc015fbf36a9a)] -> xpath: //select[@id='years']]<br>
+2022-05-15 22:05:522 INFO  HomePage :122 - Clicking on newsletterBox[[ChromeDriver: chrome on WINDOWS (3f593696ccc2dd61344bc015fbf36a9a)] -> xpath: //input[@id='newsletter']]<br>
+2022-05-15 22:05:582 INFO  HomePage :128 - Clicking on specialOffersBox[[ChromeDriver: chrome on WINDOWS (3f593696ccc2dd61344bc015fbf36a9a)] -> xpath: //input[@id='optin']]<br>
+2022-05-15 22:05:656 INFO  HomePage :133 - Enter addressfirstnamepapapig to  field [[ChromeDriver: chrome on WINDOWS (3f593696ccc2dd61344bc015fbf36a9a)] -> xpath: //input[@id='firstname']]<br>
+2022-05-15 22:05:729 INFO  HomePage :138 - Enter addresslastname mummypig to  field [[ChromeDriver: chrome on WINDOWS (3f593696ccc2dd61344bc015fbf36a9a)] -> xpath: //input[@id='lastname']]<br>
+2022-05-15 22:05:810 INFO  HomePage :143 - Enter address334 portland road to  field [[ChromeDriver: chrome on WINDOWS (3f593696ccc2dd61344bc015fbf36a9a)] -> xpath: //input[@id='address1']]<br>
+2022-05-15 22:05:881 INFO  HomePage :148 - Enter Citypune to  field [[ChromeDriver: chrome on WINDOWS (3f593696ccc2dd61344bc015fbf36a9a)] -> xpath: //input[@id='city']]<br>
+2022-05-15 22:05:959 INFO  HomePage :153 - Enter state Alabama to  field [[ChromeDriver: chrome on WINDOWS (3f593696ccc2dd61344bc015fbf36a9a)] -> xpath: //select[@id='id_state']]<br>
+2022-05-15 22:05:35 INFO  HomePage :158 - Enter zipPostalCode38000 to  field [[ChromeDriver: chrome on WINDOWS (3f593696ccc2dd61344bc015fbf36a9a)] -> xpath: //input[@id='postcode']]<br>
+2022-05-15 22:05:79 INFO  HomePage :163 - Selecting countryUnited States from dropdown [[ChromeDriver: chrome on WINDOWS (3f593696ccc2dd61344bc015fbf36a9a)] -> xpath: //select[@id='id_country']]<br>
+2022-05-15 22:05:158 INFO  HomePage :168 - Enter mobilePhone 9898989890 to  field [[ChromeDriver: chrome on WINDOWS (3f593696ccc2dd61344bc015fbf36a9a)] -> xpath: //input[@id='phone_mobile']]<br>
+2022-05-15 22:05:248 INFO  HomePage :173 - Enter referenceAddress334 portland LONDON to  field [[ChromeDriver: chrome on WINDOWS (3f593696ccc2dd61344bc015fbf36a9a)] -> xpath: //input[@id='alias']]<br>
+2022-05-15 22:05:802 INFO  HomePage :178 - Clicking on registerbutton [[ChromeDriver: chrome on WINDOWS (3f593696ccc2dd61344bc015fbf36a9a)] -> xpath: //button[@id='submitAccount']]<br>
+2022-05-15 22:05:821 INFO  HomePage :43 - getting  text from myaccountText [[ChromeDriver: chrome on WINDOWS (3f593696ccc2dd61344bc015fbf36a9a)] -> xpath: //h1[contains(text(),'My account')]]<br>
+2022-05-15 22:05:570 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 22:05:988 INFO  HomePage :51 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (3e07941a647f54879598e7318fc158ff)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-15 22:05:17 INFO  HomePage :74 - getting  text from authenticationText[[ChromeDriver: chrome on WINDOWS (3e07941a647f54879598e7318fc158ff)] -> xpath: //h1[contains(text(),'Authentication')]]<br>
+2022-05-15 22:05:763 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 22:05:308 INFO  HomePage :51 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (bf3e375ecda65de196b3617de3c03331)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-15 22:05:362 INFO  HomePage :50 - Enter email to  field [[ChromeDriver: chrome on WINDOWS (bf3e375ecda65de196b3617de3c03331)] -> xpath: //input[@id='email']]<br>
+2022-05-15 22:05:431 INFO  HomePage :55 - Enter passwordfield123456 to  field [[ChromeDriver: chrome on WINDOWS (bf3e375ecda65de196b3617de3c03331)] -> xpath: //input[@id='passwd']]<br>
+2022-05-15 22:05:451 INFO  HomePage :60 - Clicking on signInButtonField[[ChromeDriver: chrome on WINDOWS (bf3e375ecda65de196b3617de3c03331)] -> xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/form[1]/div[1]/p[2]/button[1]/span[1]]<br>
+2022-05-15 22:05:468 INFO  HomePage :90 - getting  text from errorMsg[[ChromeDriver: chrome on WINDOWS (bf3e375ecda65de196b3617de3c03331)] -> xpath: //div[@class='alert alert-danger']//li]<br>
+2022-05-15 22:05:212 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 22:05:251 INFO  HomePage :51 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (810ff48fdf9b3e0a3073ac04543e6ce8)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-15 22:05:323 INFO  HomePage :50 - Enter emailabcd@gmail.com to  field [[ChromeDriver: chrome on WINDOWS (810ff48fdf9b3e0a3073ac04543e6ce8)] -> xpath: //input[@id='email']]<br>
+2022-05-15 22:05:391 INFO  HomePage :55 - Enter passwordfield to  field [[ChromeDriver: chrome on WINDOWS (810ff48fdf9b3e0a3073ac04543e6ce8)] -> xpath: //input[@id='passwd']]<br>
+2022-05-15 22:05:552 INFO  HomePage :60 - Clicking on signInButtonField[[ChromeDriver: chrome on WINDOWS (810ff48fdf9b3e0a3073ac04543e6ce8)] -> xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/form[1]/div[1]/p[2]/button[1]/span[1]]<br>
+2022-05-15 22:05:574 INFO  HomePage :90 - getting  text from errorMsg[[ChromeDriver: chrome on WINDOWS (810ff48fdf9b3e0a3073ac04543e6ce8)] -> xpath: //div[@class='alert alert-danger']//li]<br>
+2022-05-15 22:05:349 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 22:05:380 INFO  HomePage :51 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (bfa8dc4d40545d4d76656da048cfec67)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-15 22:05:447 INFO  HomePage :50 - Enter emailadfdfgfg to  field [[ChromeDriver: chrome on WINDOWS (bfa8dc4d40545d4d76656da048cfec67)] -> xpath: //input[@id='email']]<br>
+2022-05-15 22:05:518 INFO  HomePage :55 - Enter passwordfield123456 to  field [[ChromeDriver: chrome on WINDOWS (bfa8dc4d40545d4d76656da048cfec67)] -> xpath: //input[@id='passwd']]<br>
+2022-05-15 22:05:447 INFO  HomePage :60 - Clicking on signInButtonField[[ChromeDriver: chrome on WINDOWS (bfa8dc4d40545d4d76656da048cfec67)] -> xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/form[1]/div[1]/p[2]/button[1]/span[1]]<br>
+2022-05-15 22:05:463 INFO  HomePage :90 - getting  text from errorMsg[[ChromeDriver: chrome on WINDOWS (bfa8dc4d40545d4d76656da048cfec67)] -> xpath: //div[@class='alert alert-danger']//li]<br>
+2022-05-15 22:05:175 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 22:05:478 INFO  HomePage :51 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (c0b903d60799277f3449d0cfa7f38519)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-15 22:05:557 INFO  HomePage :50 - Enter emailabcd@gmail.com to  field [[ChromeDriver: chrome on WINDOWS (c0b903d60799277f3449d0cfa7f38519)] -> xpath: //input[@id='email']]<br>
+2022-05-15 22:05:624 INFO  HomePage :55 - Enter passwordfield123456 to  field [[ChromeDriver: chrome on WINDOWS (c0b903d60799277f3449d0cfa7f38519)] -> xpath: //input[@id='passwd']]<br>
+2022-05-15 22:05:898 INFO  HomePage :60 - Clicking on signInButtonField[[ChromeDriver: chrome on WINDOWS (c0b903d60799277f3449d0cfa7f38519)] -> xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/form[1]/div[1]/p[2]/button[1]/span[1]]<br>
+2022-05-15 22:05:914 INFO  HomePage :90 - getting  text from errorMsg[[ChromeDriver: chrome on WINDOWS (c0b903d60799277f3449d0cfa7f38519)] -> xpath: //div[@class='alert alert-danger']//li]<br>
+2022-05-15 22:05:643 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 22:05:720 INFO  HomePage :51 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (ddd98f2f6f9731c22c1eaa0a74dad21e)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-15 22:05:807 INFO  HomePage :50 - Enter emailpapapig@gmail.com to  field [[ChromeDriver: chrome on WINDOWS (ddd98f2f6f9731c22c1eaa0a74dad21e)] -> xpath: //input[@id='email']]<br>
+2022-05-15 22:05:885 INFO  HomePage :55 - Enter passwordfieldpapa_pig to  field [[ChromeDriver: chrome on WINDOWS (ddd98f2f6f9731c22c1eaa0a74dad21e)] -> xpath: //input[@id='passwd']]<br>
+2022-05-15 22:05:788 INFO  HomePage :60 - Clicking on signInButtonField[[ChromeDriver: chrome on WINDOWS (ddd98f2f6f9731c22c1eaa0a74dad21e)] -> xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/form[1]/div[1]/p[2]/button[1]/span[1]]<br>
+2022-05-15 22:05:806 INFO  HomePage :31 - getting  text from sinout[[ChromeDriver: chrome on WINDOWS (ddd98f2f6f9731c22c1eaa0a74dad21e)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]<br>
+2022-05-15 22:05:541 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 22:05:446 INFO  HomePage :51 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (b04ae56fd5a53371afd8f7af8d0fc84f)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-15 22:05:536 INFO  HomePage :50 - Enter emailpapapig@gmail.com to  field [[ChromeDriver: chrome on WINDOWS (b04ae56fd5a53371afd8f7af8d0fc84f)] -> xpath: //input[@id='email']]<br>
+2022-05-15 22:05:613 INFO  HomePage :55 - Enter passwordfieldpapa_pig to  field [[ChromeDriver: chrome on WINDOWS (b04ae56fd5a53371afd8f7af8d0fc84f)] -> xpath: //input[@id='passwd']]<br>
+2022-05-15 22:05:214 INFO  HomePage :60 - Clicking on signInButtonField[[ChromeDriver: chrome on WINDOWS (b04ae56fd5a53371afd8f7af8d0fc84f)] -> xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/form[1]/div[1]/p[2]/button[1]/span[1]]<br>
+2022-05-15 22:05:813 INFO  HomePage :38 - Clicking on sinout[[ChromeDriver: chrome on WINDOWS (b04ae56fd5a53371afd8f7af8d0fc84f)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]<br>
+2022-05-15 22:05:829 INFO  HomePage :64 - getting  text from signInButtonField[[ChromeDriver: chrome on WINDOWS (b04ae56fd5a53371afd8f7af8d0fc84f)] -> xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/form[1]/div[1]/p[2]/button[1]/span[1]]<br>
+2022-05-15 22:05:568 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 22:05:58 INFO  HomePage :50 - Clicking on Women[[ChromeDriver: chrome on WINDOWS (d652fb1bb2db97936680b9ee9026bf76)] -> xpath: //header/div[3]/div[1]/div[1]/div[6]/ul[1]/li[1]/a[1]]<br>
+2022-05-15 22:05:427 INFO  HomePage :87 - Clicking on Blouse [[ChromeDriver: chrome on WINDOWS (d652fb1bb2db97936680b9ee9026bf76)] -> xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[2]/ul[1]/li[2]/div[1]/div[2]/h5[1]/a[1]]
+2022-05-15 22:05:474 INFO  HomePage :52 - Enter ProductQuantity[[ChromeDriver: chrome on WINDOWS (d652fb1bb2db97936680b9ee9026bf76)] -> xpath: //input[@id='quantity_wanted']]<br>
+2022-05-15 22:05:523 INFO  HomePage :57 - Enter ProductQuantity 2 to firstname field [[ChromeDriver: chrome on WINDOWS (d652fb1bb2db97936680b9ee9026bf76)] -> xpath: //input[@id='quantity_wanted']]<br>
+2022-05-15 22:05:615 INFO  HomePage :62 - Selecting birthDate M from dropdown [[ChromeDriver: chrome on WINDOWS (d652fb1bb2db97936680b9ee9026bf76)] -> xpath: //select[@id='group_1']]<br>
+2022-05-15 22:05:670 INFO  HomePage :83 - Clicking on addToCardProduct[[ChromeDriver: chrome on WINDOWS (d652fb1bb2db97936680b9ee9026bf76)] -> xpath: //span[contains(text(),'Add to cart')]]<br>
+2022-05-15 22:05:699 INFO  HomePage :87 - getting  text from productAdded[[ChromeDriver: chrome on WINDOWS (d652fb1bb2db97936680b9ee9026bf76)] -> xpath: //body[1]/div[1]/div[1]/header[1]/div[3]/div[1]/div[1]/div[4]/div[1]/div[1]/h2[1]]<br>
+2022-05-15 22:05:779 INFO  HomePage :93 - Clicking on crossbutton[[ChromeDriver: chrome on WINDOWS (d652fb1bb2db97936680b9ee9026bf76)] -> xpath: //header/div[3]/div[1]/div[1]/div[4]/div[1]/div[1]/span[1]]<br>
+2022-05-15 22:05:566 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 23:05:221 INFO  HomePage :50 - Clicking on Women[[ChromeDriver: chrome on WINDOWS (96c49c8d055dd4d17cec4d536449e9fb)] -> xpath: //header/div[3]/div[1]/div[1]/div[6]/ul[1]/li[1]/a[1]]<br>
+2022-05-15 23:05:06 INFO  HomePage :92 - Clicking on Printed Dress [[ChromeDriver: chrome on WINDOWS (96c49c8d055dd4d17cec4d536449e9fb)] -> xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[2]/ul[1]/li[3]/div[1]/div[2]/h5[1]/a[1]]
+2022-05-15 23:05:63 INFO  HomePage :52 - Enter ProductQuantity[[ChromeDriver: chrome on WINDOWS (96c49c8d055dd4d17cec4d536449e9fb)] -> xpath: //input[@id='quantity_wanted']]<br>
+2022-05-15 23:05:107 INFO  HomePage :57 - Enter ProductQuantity 3 to firstname field [[ChromeDriver: chrome on WINDOWS (96c49c8d055dd4d17cec4d536449e9fb)] -> xpath: //input[@id='quantity_wanted']]<br>
+2022-05-15 23:05:198 INFO  HomePage :62 - Selecting birthDate L from dropdown [[ChromeDriver: chrome on WINDOWS (96c49c8d055dd4d17cec4d536449e9fb)] -> xpath: //select[@id='group_1']]<br>
+2022-05-15 23:05:255 INFO  HomePage :83 - Clicking on addToCardProduct[[ChromeDriver: chrome on WINDOWS (96c49c8d055dd4d17cec4d536449e9fb)] -> xpath: //span[contains(text(),'Add to cart')]]<br>
+2022-05-15 23:05:285 INFO  HomePage :87 - getting  text from productAdded[[ChromeDriver: chrome on WINDOWS (96c49c8d055dd4d17cec4d536449e9fb)] -> xpath: //body[1]/div[1]/div[1]/header[1]/div[3]/div[1]/div[1]/div[4]/div[1]/div[1]/h2[1]]<br>
+2022-05-15 23:05:375 INFO  HomePage :93 - Clicking on crossbutton[[ChromeDriver: chrome on WINDOWS (96c49c8d055dd4d17cec4d536449e9fb)] -> xpath: //header/div[3]/div[1]/div[1]/div[4]/div[1]/div[1]/span[1]]<br>
+2022-05-15 23:05:147 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 23:05:511 INFO  HomePage :50 - Clicking on Women[[ChromeDriver: chrome on WINDOWS (cbf078fd47fc56d8699c1e104b3bf19e)] -> xpath: //header/div[3]/div[1]/div[1]/div[6]/ul[1]/li[1]/a[1]]<br>
+2022-05-15 23:05:104 INFO  HomePage :96 - Clicking on Printed Chiffon Dress [[ChromeDriver: chrome on WINDOWS (cbf078fd47fc56d8699c1e104b3bf19e)] -> xpath: //a[contains(text(),'Printed Chiffon Dress')]]
+2022-05-15 23:05:149 INFO  HomePage :52 - Enter ProductQuantity[[ChromeDriver: chrome on WINDOWS (cbf078fd47fc56d8699c1e104b3bf19e)] -> xpath: //input[@id='quantity_wanted']]<br>
+2022-05-15 23:05:201 INFO  HomePage :57 - Enter ProductQuantity 4 to firstname field [[ChromeDriver: chrome on WINDOWS (cbf078fd47fc56d8699c1e104b3bf19e)] -> xpath: //input[@id='quantity_wanted']]<br>
+2022-05-15 23:05:244 INFO  HomePage :62 - Selecting birthDate S from dropdown [[ChromeDriver: chrome on WINDOWS (cbf078fd47fc56d8699c1e104b3bf19e)] -> xpath: //select[@id='group_1']]<br>
+2022-05-15 23:05:304 INFO  HomePage :83 - Clicking on addToCardProduct[[ChromeDriver: chrome on WINDOWS (cbf078fd47fc56d8699c1e104b3bf19e)] -> xpath: //span[contains(text(),'Add to cart')]]<br>
+2022-05-15 23:05:331 INFO  HomePage :87 - getting  text from productAdded[[ChromeDriver: chrome on WINDOWS (cbf078fd47fc56d8699c1e104b3bf19e)] -> xpath: //body[1]/div[1]/div[1]/header[1]/div[3]/div[1]/div[1]/div[4]/div[1]/div[1]/h2[1]]<br>
+2022-05-15 23:05:386 INFO  HomePage :93 - Clicking on crossbutton[[ChromeDriver: chrome on WINDOWS (cbf078fd47fc56d8699c1e104b3bf19e)] -> xpath: //header/div[3]/div[1]/div[1]/div[4]/div[1]/div[1]/span[1]]<br>
+2022-05-15 23:05:145 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-15 23:05:434 INFO  HomePage :50 - Clicking on Women[[ChromeDriver: chrome on WINDOWS (166413e05eceecd6fbd916cfb78a12f4)] -> xpath: //header/div[3]/div[1]/div[1]/div[6]/ul[1]/li[1]/a[1]]<br>
+2022-05-15 23:05:871 INFO  HomePage :100 - Clicking on Printed Summer Dress with Price tag $28.98 [[ChromeDriver: chrome on WINDOWS (166413e05eceecd6fbd916cfb78a12f4)] -> xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[2]/ul[1]/li[5]/div[1]/div[2]/h5[1]/a[1]]
+2022-05-15 23:05:927 INFO  HomePage :52 - Enter ProductQuantity[[ChromeDriver: chrome on WINDOWS (166413e05eceecd6fbd916cfb78a12f4)] -> xpath: //input[@id='quantity_wanted']]<br>
+2022-05-15 23:05:975 INFO  HomePage :57 - Enter ProductQuantity 2 to firstname field [[ChromeDriver: chrome on WINDOWS (166413e05eceecd6fbd916cfb78a12f4)] -> xpath: //input[@id='quantity_wanted']]<br>
+2022-05-15 23:05:62 INFO  HomePage :62 - Selecting birthDate M from dropdown [[ChromeDriver: chrome on WINDOWS (166413e05eceecd6fbd916cfb78a12f4)] -> xpath: //select[@id='group_1']]<br>
+2022-05-15 23:05:120 INFO  HomePage :83 - Clicking on addToCardProduct[[ChromeDriver: chrome on WINDOWS (166413e05eceecd6fbd916cfb78a12f4)] -> xpath: //span[contains(text(),'Add to cart')]]<br>
+2022-05-15 23:05:146 INFO  HomePage :87 - getting  text from productAdded[[ChromeDriver: chrome on WINDOWS (166413e05eceecd6fbd916cfb78a12f4)] -> xpath: //body[1]/div[1]/div[1]/header[1]/div[3]/div[1]/div[1]/div[4]/div[1]/div[1]/h2[1]]<br>
+2022-05-15 23:05:219 INFO  HomePage :93 - Clicking on crossbutton[[ChromeDriver: chrome on WINDOWS (166413e05eceecd6fbd916cfb78a12f4)] -> xpath: //header/div[3]/div[1]/div[1]/div[4]/div[1]/div[1]/span[1]]<br>
